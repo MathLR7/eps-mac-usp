@@ -1,1 +1,1 @@
-
+Você conhece o famoso problema das rainhas, mas e se pudesse solucionar o problema das torres? E dos bispos? E dos cavalos? Esse programa em C é capaz de calcular e mostrar todas as soluções possíveis para esses problemas relacionados ao xadrez. Além disso ele também é capaz de produzir um mapa de frequência de cada casa no tabuleiro como saída que pode ser utilizado em visualizadores de dados.
