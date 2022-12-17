@@ -1,2 +1,3 @@
 Este programa calcula num dado intervalo de tempo escolhido, as posições, velocidades e acelerações de até 3 astros de acordo com as influências gravitacionais
-que esses exercem entre si e seus atributos iniciais. Há uma simplificação do cálculo para efeito de tornar mais fácil o entendimento.
+que esses exercem entre si e seus atributos iniciais. Há uma simplificação do cálculo para efeito de tornar mais fácil
+o entendimento.
