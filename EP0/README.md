@@ -1,2 +1,3 @@
 Numle!
-O famoso jogo de adivinhar palavras de 2022 porém com números! (Versão simplificada)
+The famous word guessing game, but with a number! (Simplified version)
+O famoso jogo de adivinhar palavras de, porém com números! (Versão simplificada)
